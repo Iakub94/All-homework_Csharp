@@ -44,7 +44,7 @@ Console.WriteLine($"Sum of numbers is {result}");
 /*
 Console.Clear();
 
-   int[] CreatRandomArray(int size) 
+   int[] CreatArray(int size) 
 {
     int[] array = new int[8];
 
@@ -67,7 +67,7 @@ Console.Clear();
 
 int size = 8;
 
-int[] myArray = CreatRandomArray(size);
+int[] myArray = CreatArray(size);
 ShowArray(myArray);
 */
 
