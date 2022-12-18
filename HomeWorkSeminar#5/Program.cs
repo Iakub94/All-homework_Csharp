@@ -101,17 +101,16 @@ Console.WriteLine(result);
 /*
 Console.Clear();
 
-double[] CreatRandomArray(int size, int minValue, int maxValue) 
+double[] CreatRandomArray(int size, int maxValue) 
 {
     double[] array = new double[size];
 
     for (int i = 0; i < size; i++)
-        array[i] = new Random().NextDouble(minValue, maxValue); 
-
-    return array;
+        array[i] = new Random().NextDouble() * maxValue; 
+    return array;   
 }
 
-void ShowArray(int[] array)
+void ShowArray(double[] array)
 {
     for (int i = 0; i < array.Length; i++)
     {
@@ -119,31 +118,28 @@ void ShowArray(int[] array)
     }
 } 
 
-double[] DefArray (int[] array)
+double DifMinMax (double[] array)
 {
+    double min = array[0];
+    double max = array[0];
 
-    double max = 0;
-    for (double i = 0; i < array.Length; i++)
+    for (int i = 0; i < array.Length; i++)
     {
-        if(max < array[i])
-        {
-            max = array[i];
-        }
+        if(array[i] < min) min = array[i];
+        if(array[i] > max) max = array[i];
     }
+    Console.Write("max " + max + " - min " + min + " = ");
+    return max - min;
 }
 
 Console.Write("Input a number of elements: ");
 int size = Convert.ToInt32(Console.ReadLine());
 
-Console.Write("Input a min possible value: ");
-int min = Convert.ToInt32(Console.ReadLine());
-
 Console.Write("Input a max possible value: ");
 int max = Convert.ToInt32(Console.ReadLine());
 
-int[] myArray = CreatRandomArray(size, min, max);
+double[] myArray = CreatRandomArray(size, max);
 ShowArray(myArray);
 
-int result = Digits(myArray);
+Console.WriteLine(DifMinMax(myArray));
 */
-
