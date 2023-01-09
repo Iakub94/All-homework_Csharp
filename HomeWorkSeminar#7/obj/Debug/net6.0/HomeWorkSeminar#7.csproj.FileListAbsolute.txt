@@ -1,0 +1,15 @@
+/Users/aleksandriakubov/Desktop/All homework_C#/HomeWorkSeminar#7/bin/Debug/net6.0/HomeWorkSeminar#7
+/Users/aleksandriakubov/Desktop/All homework_C#/HomeWorkSeminar#7/bin/Debug/net6.0/HomeWorkSeminar#7.deps.json
+/Users/aleksandriakubov/Desktop/All homework_C#/HomeWorkSeminar#7/bin/Debug/net6.0/HomeWorkSeminar#7.runtimeconfig.json
+/Users/aleksandriakubov/Desktop/All homework_C#/HomeWorkSeminar#7/bin/Debug/net6.0/HomeWorkSeminar#7.dll
+/Users/aleksandriakubov/Desktop/All homework_C#/HomeWorkSeminar#7/bin/Debug/net6.0/HomeWorkSeminar#7.pdb
+/Users/aleksandriakubov/Desktop/All homework_C#/HomeWorkSeminar#7/obj/Debug/net6.0/HomeWorkSeminar#7.csproj.AssemblyReference.cache
+/Users/aleksandriakubov/Desktop/All homework_C#/HomeWorkSeminar#7/obj/Debug/net6.0/HomeWorkSeminar#7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandriakubov/Desktop/All homework_C#/HomeWorkSeminar#7/obj/Debug/net6.0/HomeWorkSeminar#7.AssemblyInfoInputs.cache
+/Users/aleksandriakubov/Desktop/All homework_C#/HomeWorkSeminar#7/obj/Debug/net6.0/HomeWorkSeminar#7.AssemblyInfo.cs
+/Users/aleksandriakubov/Desktop/All homework_C#/HomeWorkSeminar#7/obj/Debug/net6.0/HomeWorkSeminar#7.csproj.CoreCompileInputs.cache
+/Users/aleksandriakubov/Desktop/All homework_C#/HomeWorkSeminar#7/obj/Debug/net6.0/HomeWorkSeminar#7.dll
+/Users/aleksandriakubov/Desktop/All homework_C#/HomeWorkSeminar#7/obj/Debug/net6.0/refint/HomeWorkSeminar#7.dll
+/Users/aleksandriakubov/Desktop/All homework_C#/HomeWorkSeminar#7/obj/Debug/net6.0/HomeWorkSeminar#7.pdb
+/Users/aleksandriakubov/Desktop/All homework_C#/HomeWorkSeminar#7/obj/Debug/net6.0/HomeWorkSeminar#7.genruntimeconfig.cache
+/Users/aleksandriakubov/Desktop/All homework_C#/HomeWorkSeminar#7/obj/Debug/net6.0/ref/HomeWorkSeminar#7.dll
